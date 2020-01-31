@@ -11,6 +11,8 @@
 
 <!--Add all-contributors-->
 
+**THIS REPOSITORY HAS MOVED TO THE MASTER BRANCH OF https://github.com/squirrellyjs/squirrelly**
+
 **Summary**
 
 Squirrelly is a modern, configurable, and blazing fast template engine implemented in JavaScript. It works out of the box with ExpressJS and the **full version** weighs only **~2.2KB gzipped**.
